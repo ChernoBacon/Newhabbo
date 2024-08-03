@@ -1,0 +1,396 @@
+<roomitemtypes>
+<furnitype id="1500005909" classname="clothing_nt_gothichat">
+<partcolors></partcolors>
+<name>clothing_nt_gothichat</name>
+<description>clothing_nt_gothichat desc</description>
+<adurl/>
+<offerid>1500005909</offerid><rentofferid>-1</rentofferid><rentbuyout>0</rentbuyout>
+</furnitype>
+<furnitype id="1500005910" classname="clothing_nt_gothicflowerhorns">
+<partcolors></partcolors>
+<name>clothing_nt_gothicflowerhorns</name>
+<description>clothing_nt_gothicflowerhorns desc</description>
+<adurl/>
+<offerid>1500005910</offerid><rentofferid>-1</rentofferid><rentbuyout>0</rentbuyout>
+</furnitype>
+<furnitype id="1500005911" classname="hween_c22_taintedtable">
+<partcolors></partcolors>
+<name>hween_c22_taintedtable</name>
+<description>hween_c22_taintedtable desc</description>
+<adurl/>
+<offerid>1500005911</offerid><rentofferid>-1</rentofferid><rentbuyout>0</rentbuyout>
+</furnitype>
+<furnitype id="1500005912" classname="hween_c22_gothicwindow">
+<partcolors></partcolors>
+<name>hween_c22_gothicwindow</name>
+<description>hween_c22_gothicwindow desc</description>
+<adurl/>
+<offerid>1500005912</offerid><rentofferid>-1</rentofferid><rentbuyout>0</rentbuyout>
+</furnitype>
+<furnitype id="1500005913" classname="hween_c22_gothictable">
+<partcolors></partcolors>
+<name>hween_c22_gothictable</name>
+<description>hween_c22_gothictable desc</description>
+<adurl/>
+<offerid>1500005913</offerid><rentofferid>-1</rentofferid><rentbuyout>0</rentbuyout>
+</furnitype>
+<furnitype id="1500005914" classname="hween_c22_gothicstatue">
+<partcolors></partcolors>
+<name>hween_c22_gothicstatue</name>
+<description>hween_c22_gothicstatue desc</description>
+<adurl/>
+<offerid>1500005914</offerid><rentofferid>-1</rentofferid><rentbuyout>0</rentbuyout>
+</furnitype>
+<furnitype id="1500005915" classname="hween_c22_gothicdrapes">
+<partcolors></partcolors>
+<name>hween_c22_gothicdrapes</name>
+<description>hween_c22_gothicdrapes desc</description>
+<adurl/>
+<offerid>1500005915</offerid><rentofferid>-1</rentofferid><rentbuyout>0</rentbuyout>
+</furnitype>
+<furnitype id="1500005916" classname="hween_c22_archdarkangel">
+<partcolors></partcolors>
+<name>hween_c22_archdarkangel</name>
+<description>hween_c22_archdarkangel desc</description>
+<adurl/>
+<offerid>1500005916</offerid><rentofferid>-1</rentofferid><rentbuyout>0</rentbuyout>
+</furnitype>
+<furnitype id="1500005917" classname="hween_c22_marblefloor">
+<partcolors></partcolors>
+<name>hween_c22_marblefloor</name>
+<description>hween_c22_marblefloor desc</description>
+<adurl/>
+<offerid>1500005917</offerid><rentofferid>-1</rentofferid><rentbuyout>0</rentbuyout>
+</furnitype>
+<furnitype id="1500005918" classname="hween_c22_bloodvial">
+<partcolors></partcolors>
+<name>hween_c22_bloodvial</name>
+<description>hween_c22_bloodvial desc</description>
+<adurl/>
+<offerid>1500005918</offerid><rentofferid>-1</rentofferid><rentbuyout>0</rentbuyout>
+</furnitype>
+<furnitype id="1500005919" classname="hween_c22_roseskull">
+<partcolors></partcolors>
+<name>hween_c22_roseskull</name>
+<description>hween_c22_roseskull desc</description>
+<adurl/>
+<offerid>1500005919</offerid><rentofferid>-1</rentofferid><rentbuyout>0</rentbuyout>
+</furnitype>
+<furnitype id="1500005920" classname="hween_c22_gothicstairs">
+<partcolors></partcolors>
+<name>hween_c22_gothicstairs</name>
+<description>hween_c22_gothicstairs desc</description>
+<adurl/>
+<offerid>1500005920</offerid><rentofferid>-1</rentofferid><rentbuyout>0</rentbuyout>
+</furnitype>
+<furnitype id="1500005921" classname="hween_c22_darkcandles">
+<partcolors></partcolors>
+<name>hween_c22_darkcandles</name>
+<description>hween_c22_darkcandles desc</description>
+<adurl/>
+<offerid>1500005921</offerid><rentofferid>-1</rentofferid><rentbuyout>0</rentbuyout>
+</furnitype>
+<furnitype id="1500005922" classname="hween_c22_taintedlamp">
+<partcolors></partcolors>
+<name>hween_c22_taintedlamp</name>
+<description>hween_c22_taintedlamp desc</description>
+<adurl/>
+<offerid>1500005922</offerid><rentofferid>-1</rentofferid><rentbuyout>0</rentbuyout>
+</furnitype>
+<furnitype id="1500005923" classname="hween_r22_hellhound">
+<partcolors></partcolors>
+<name>hween_r22_hellhound</name>
+<description>hween_r22_hellhound desc</description>
+<adurl/>
+<offerid>1500005923</offerid><rentofferid>-1</rentofferid><rentbuyout>0</rentbuyout>
+</furnitype>
+<furnitype id="1500005924" classname="hween_c22_taintedchair">
+<partcolors></partcolors>
+<name>hween_c22_taintedchair</name>
+<description>hween_c22_taintedchair desc</description>
+<adurl/>
+<offerid>1500005924</offerid><rentofferid>-1</rentofferid><rentbuyout>0</rentbuyout>
+</furnitype>
+<furnitype id="1500005925" classname="hween_c22_bookofdead">
+<partcolors></partcolors>
+<name>hween_c22_bookofdead</name>
+<description>hween_c22_bookofdead desc</description>
+<adurl/>
+<offerid>1500005925</offerid><rentofferid>-1</rentofferid><rentbuyout>0</rentbuyout>
+</furnitype>
+<furnitype id="1500005926" classname="hween_c22_gothicrug">
+<partcolors></partcolors>
+<name>hween_c22_gothicrug</name>
+<description>hween_c22_gothicrug desc</description>
+<adurl/>
+<offerid>1500005926</offerid><rentofferid>-1</rentofferid><rentbuyout>0</rentbuyout>
+</furnitype>
+<furnitype id="1500005927" classname="hween_c22_bloodchalice">
+<partcolors></partcolors>
+<name>hween_c22_bloodchalice</name>
+<description>hween_c22_bloodchalice desc</description>
+<adurl/>
+<offerid>1500005927</offerid><rentofferid>-1</rentofferid><rentbuyout>0</rentbuyout>
+</furnitype>
+<furnitype id="1500005928" classname="hween_c22_undeadfood">
+<partcolors></partcolors>
+<name>hween_c22_undeadfood</name>
+<description>hween_c22_undeadfood desc</description>
+<adurl/>
+<offerid>1500005928</offerid><rentofferid>-1</rentofferid><rentbuyout>0</rentbuyout>
+</furnitype>
+<furnitype id="1500005929" classname="clothing_gothicdress">
+<partcolors></partcolors>
+<name>clothing_gothicdress</name>
+<description>clothing_gothicdress desc</description>
+<adurl/>
+<offerid>1500005929</offerid><rentofferid>-1</rentofferid><rentbuyout>0</rentbuyout>
+</furnitype>
+<furnitype id="1500005930" classname="clothing_gothicflowerhorns">
+<partcolors></partcolors>
+<name>clothing_gothicflowerhorns</name>
+<description>clothing_gothicflowerhorns desc</description>
+<adurl/>
+<offerid>1500005930</offerid><rentofferid>-1</rentofferid><rentbuyout>0</rentbuyout>
+</furnitype>
+<furnitype id="1500005931" classname="hween_c22_gothicbanner">
+<partcolors></partcolors>
+<name>hween_c22_gothicbanner</name>
+<description>hween_c22_gothicbanner desc</description>
+<adurl/>
+<offerid>1500005931</offerid><rentofferid>-1</rentofferid><rentbuyout>0</rentbuyout>
+</furnitype>
+<furnitype id="1500005932" classname="hween_c22_taintedbookshelf">
+<partcolors></partcolors>
+<name>hween_c22_taintedbookshelf</name>
+<description>hween_c22_taintedbookshelf desc</description>
+<adurl/>
+<offerid>1500005932</offerid><rentofferid>-1</rentofferid><rentbuyout>0</rentbuyout>
+</furnitype>
+<furnitype id="1500005933" classname="hween_c22_archdarkangelb">
+<partcolors></partcolors>
+<name>hween_c22_archdarkangelb</name>
+<description>hween_c22_archdarkangelb desc</description>
+<adurl/>
+<offerid>1500005933</offerid><rentofferid>-1</rentofferid><rentbuyout>0</rentbuyout>
+</furnitype>
+<furnitype id="1500005934" classname="hween_c22_gothicsofa">
+<partcolors></partcolors>
+<name>hween_c22_gothicsofa</name>
+<description>hween_c22_gothicsofa desc</description>
+<adurl/>
+<offerid>1500005934</offerid><rentofferid>-1</rentofferid><rentbuyout>0</rentbuyout>
+</furnitype>
+<furnitype id="1500005935" classname="hween_c22_mirror">
+<partcolors></partcolors>
+<name>hween_c22_mirror</name>
+<description>hween_c22_mirror desc</description>
+<adurl/>
+<offerid>1500005935</offerid><rentofferid>-1</rentofferid><rentbuyout>0</rentbuyout>
+</furnitype>
+<furnitype id="1500005936" classname="hween_c22_lucifer">
+<partcolors></partcolors>
+<name>hween_c22_lucifer</name>
+<description>hween_c22_lucifer desc</description>
+<adurl/>
+<offerid>1500005936</offerid><rentofferid>-1</rentofferid><rentbuyout>0</rentbuyout>
+</furnitype>
+<furnitype id="1500005937" classname="hween_c22_gothicpillar">
+<partcolors></partcolors>
+<name>hween_c22_gothicpillar</name>
+<description>hween_c22_gothicpillar desc</description>
+<adurl/>
+<offerid>1500005937</offerid><rentofferid>-1</rentofferid><rentbuyout>0</rentbuyout>
+</furnitype>
+<furnitype id="1500005938" classname="clothing_nt_gothicdress">
+<partcolors></partcolors>
+<name>clothing_nt_gothicdress</name>
+<description>clothing_nt_gothicdress desc</description>
+<adurl/>
+<offerid>1500005938</offerid><rentofferid>-1</rentofferid><rentbuyout>0</rentbuyout>
+</furnitype>
+<furnitype id="1500005939" classname="hween_c22_gothicportrait">
+<partcolors></partcolors>
+<name>hween_c22_gothicportrait</name>
+<description>hween_c22_gothicportrait desc</description>
+<adurl/>
+<offerid>1500005939</offerid><rentofferid>-1</rentofferid><rentbuyout>0</rentbuyout>
+</furnitype>
+<furnitype id="1500005940" classname="hween_c22_gothiclamp">
+<partcolors></partcolors>
+<name>hween_c22_gothiclamp</name>
+<description>hween_c22_gothiclamp desc</description>
+<adurl/>
+<offerid>1500005940</offerid><rentofferid>-1</rentofferid><rentbuyout>0</rentbuyout>
+</furnitype>
+<furnitype id="1500005941" classname="hween_c22_darkangelstatueb">
+<partcolors></partcolors>
+<name>hween_c22_darkangelstatueb</name>
+<description>hween_c22_darkangelstatueb desc</description>
+<adurl/>
+<offerid>1500005941</offerid><rentofferid>-1</rentofferid><rentbuyout>0</rentbuyout>
+</furnitype>
+<furnitype id="1500005942" classname="hween_c22_darkskull">
+<partcolors></partcolors>
+<name>hween_c22_darkskull</name>
+<description>hween_c22_darkskull desc</description>
+<adurl/>
+<offerid>1500005942</offerid><rentofferid>-1</rentofferid><rentbuyout>0</rentbuyout>
+</furnitype>
+<furnitype id="1500005943" classname="hween_c22_darkskull">
+<partcolors></partcolors>
+<name>hween_c22_darkskull</name>
+<description>hween_c22_darkskull desc</description>
+<adurl/>
+<offerid>1500005943</offerid><rentofferid>-1</rentofferid><rentbuyout>0</rentbuyout>
+</furnitype>
+<furnitype id="1500005944" classname="clothing_gothichat">
+<partcolors></partcolors>
+<name>clothing_gothichat</name>
+<description>clothing_gothichat desc</description>
+<adurl/>
+<offerid>1500005944</offerid><rentofferid>-1</rentofferid><rentbuyout>0</rentbuyout>
+</furnitype>
+<furnitype id="1500005945" classname="hween_c22_darkangel">
+<partcolors></partcolors>
+<name>hween_c22_darkangel</name>
+<description>hween_c22_darkangel desc</description>
+<adurl/>
+<offerid>1500005945</offerid><rentofferid>-1</rentofferid><rentbuyout>0</rentbuyout>
+</furnitype>
+<furnitype id="1500005946" classname="hween_c22_darkangelb">
+<partcolors></partcolors>
+<name>hween_c22_darkangelb</name>
+<description>hween_c22_darkangelb desc</description>
+<adurl/>
+<offerid>1500005946</offerid><rentofferid>-1</rentofferid><rentbuyout>0</rentbuyout>
+</furnitype>
+<furnitype id="1500005947" classname="hween_c22_darkmagictable">
+<partcolors></partcolors>
+<name>hween_c22_darkmagictable</name>
+<description>hween_c22_darkmagictable desc</description>
+<adurl/>
+<offerid>1500005947</offerid><rentofferid>-1</rentofferid><rentbuyout>0</rentbuyout>
+</furnitype>
+<furnitype id="1500005948" classname="hween_c22_darkmagictele">
+<partcolors></partcolors>
+<name>hween_c22_darkmagictele</name>
+<description>hween_c22_darkmagictele desc</description>
+<adurl/>
+<offerid>1500005948</offerid><rentofferid>-1</rentofferid><rentbuyout>0</rentbuyout>
+</furnitype>
+<furnitype id="1500005949" classname="hween_c22_gothicchair">
+<partcolors></partcolors>
+<name>hween_c22_gothicchair</name>
+<description>hween_c22_gothicchair desc</description>
+<adurl/>
+<offerid>1500005949</offerid><rentofferid>-1</rentofferid><rentbuyout>0</rentbuyout>
+</furnitype>
+<furnitype id="1500005950" classname="hween_c22_gothicteaset">
+<partcolors></partcolors>
+<name>hween_c22_gothicteaset</name>
+<description>hween_c22_gothicteaset desc</description>
+<adurl/>
+<offerid>1500005950</offerid><rentofferid>-1</rentofferid><rentbuyout>0</rentbuyout>
+</furnitype>
+<furnitype id="1500005951" classname="hween_c22_gothicblock">
+<partcolors></partcolors>
+<name>hween_c22_gothicblock</name>
+<description>hween_c22_gothicblock desc</description>
+<adurl/>
+<offerid>1500005951</offerid><rentofferid>-1</rentofferid><rentbuyout>0</rentbuyout>
+</furnitype>
+<furnitype id="1500005952" classname="clothing_r22_wingheadpiece">
+<partcolors></partcolors>
+<name>clothing_r22_wingheadpiece</name>
+<description>clothing_r22_wingheadpiece desc</description>
+<adurl/>
+<offerid>1500005952</offerid><rentofferid>-1</rentofferid><rentbuyout>0</rentbuyout>
+</furnitype>
+<furnitype id="1500005953" classname="hween_r22_coffin">
+<partcolors></partcolors>
+<name>hween_r22_coffin</name>
+<description>hween_r22_coffin desc</description>
+<adurl/>
+<offerid>1500005953</offerid><rentofferid>-1</rentofferid><rentbuyout>0</rentbuyout>
+</furnitype>
+<furnitype id="1500005954" classname="hween_c22_pitofsouls">
+<partcolors></partcolors>
+<name>hween_c22_pitofsouls</name>
+<description>hween_c22_pitofsouls desc</description>
+<adurl/>
+<offerid>1500005954</offerid><rentofferid>-1</rentofferid><rentbuyout>0</rentbuyout>
+</furnitype>
+<furnitype id="1500005955" classname="clothing_r22_darkangelwings">
+<partcolors></partcolors>
+<name>clothing_r22_darkangelwings</name>
+<description>clothing_r22_darkangelwings desc</description>
+<adurl/>
+<offerid>1500005955</offerid><rentofferid>-1</rentofferid><rentbuyout>0</rentbuyout>
+</furnitype>
+<furnitype id="1500005956" classname="hween_c22_zombiehand">
+<partcolors></partcolors>
+<name>hween_c22_zombiehand</name>
+<description>hween_c22_zombiehand desc</description>
+<adurl/>
+<offerid>1500005956</offerid><rentofferid>-1</rentofferid><rentbuyout>0</rentbuyout>
+</furnitype>
+<furnitype id="1500005957" classname="clothing_nt_gothiccoat">
+<partcolors></partcolors>
+<name>clothing_nt_gothiccoat</name>
+<description>clothing_nt_gothiccoat desc</description>
+<adurl/>
+<offerid>1500005957</offerid><rentofferid>-1</rentofferid><rentbuyout>0</rentbuyout>
+</furnitype>
+<furnitype id="1500005958" classname="hween_c22_darkfeathers">
+<partcolors></partcolors>
+<name>hween_c22_darkfeathers</name>
+<description>hween_c22_darkfeathers desc</description>
+<adurl/>
+<offerid>1500005958</offerid><rentofferid>-1</rentofferid><rentbuyout>0</rentbuyout>
+</furnitype>
+<furnitype id="1500005959" classname="hween_c22_gothicbookshelf">
+<partcolors></partcolors>
+<name>hween_c22_gothicbookshelf</name>
+<description>hween_c22_gothicbookshelf desc</description>
+<adurl/>
+<offerid>1500005959</offerid><rentofferid>-1</rentofferid><rentbuyout>0</rentbuyout>
+</furnitype>
+<furnitype id="1500005960" classname="clothing_gothiccoat">
+<partcolors></partcolors>
+<name>clothing_gothiccoat</name>
+<description>clothing_gothiccoat desc</description>
+<adurl/>
+<offerid>1500005960</offerid><rentofferid>-1</rentofferid><rentbuyout>0</rentbuyout>
+</furnitype>
+<furnitype id="1500005961" classname="hween_c22_gothicbed">
+<partcolors></partcolors>
+<name>hween_c22_gothicbed</name>
+<description>hween_c22_gothicbed desc</description>
+<adurl/>
+<offerid>1500005961</offerid><rentofferid>-1</rentofferid><rentbuyout>0</rentbuyout>
+</furnitype>
+<furnitype id="1500005962" classname="hween_ltd22_throneofwings">
+<partcolors></partcolors>
+<name>hween_ltd22_throneofwings</name>
+<description>hween_ltd22_throneofwings desc</description>
+<adurl/>
+<offerid>1500005962</offerid><rentofferid>-1</rentofferid><rentbuyout>0</rentbuyout>
+</furnitype>
+<furnitype id="1500005963" classname="hween_c22_darkangelstatue">
+<partcolors></partcolors>
+<name>hween_c22_darkangelstatue</name>
+<description>hween_c22_darkangelstatue desc</description>
+<adurl/>
+<offerid>1500005963</offerid><rentofferid>-1</rentofferid><rentbuyout>0</rentbuyout>
+</furnitype>
+<furnitype id="1500005964" classname="hween_c22_taintedsofa">
+<partcolors></partcolors>
+<name>hween_c22_taintedsofa</name>
+<description>hween_c22_taintedsofa desc</description>
+<adurl/>
+<offerid>1500005964</offerid><rentofferid>-1</rentofferid><rentbuyout>0</rentbuyout>
+</furnitype>
+</roomitemtypes>
+<wallitemtypes>
+</wallitemtypes>

@@ -1,0 +1,1232 @@
+<roomitemtypes><furnitype id="13398" classname="clothing_nt_gothichat">
+    <revision>68275</revision>
+    <defaultdir>0</defaultdir>
+    <xdim>1</xdim>
+    <ydim>1</ydim>
+            <partcolors></partcolors>
+    <name>clothing_nt_gothichat name</name>
+    <description>clothing_nt_gothichat desc</description>
+    <adurl/>
+    <offerid>-1</offerid>
+    <buyout>0</buyout>
+    <rentofferid>-1</rentofferid>
+    <rentbuyout>0</rentbuyout>
+    <bc>0</bc>
+    <excludeddynamic>0</excludeddynamic>
+    <customparams>4980</customparams>
+    <specialtype>23</specialtype>
+    <canstandon>0</canstandon>
+    <cansiton>0</cansiton>
+    <canlayon>0</canlayon>
+    <furniline>habboween_2022</furniline>
+</furnitype>
+<furnitype id="13399" classname="clothing_nt_gothicflowerhorns">
+    <revision>68275</revision>
+    <defaultdir>0</defaultdir>
+    <xdim>1</xdim>
+    <ydim>1</ydim>
+            <partcolors></partcolors>
+    <name>clothing_nt_gothicflowerhorns name</name>
+    <description>clothing_nt_gothicflowerhorns desc</description>
+    <adurl/>
+    <offerid>-1</offerid>
+    <buyout>0</buyout>
+    <rentofferid>-1</rentofferid>
+    <rentbuyout>0</rentbuyout>
+    <bc>0</bc>
+    <excludeddynamic>0</excludeddynamic>
+    <customparams>4977</customparams>
+    <specialtype>23</specialtype>
+    <canstandon>0</canstandon>
+    <cansiton>0</cansiton>
+    <canlayon>0</canlayon>
+    <furniline>habboween_2022</furniline>
+</furnitype>
+<furnitype id="13400" classname="hween_c22_taintedtable">
+    <revision>68275</revision>
+    <defaultdir>0</defaultdir>
+    <xdim>2</xdim>
+    <ydim>3</ydim>
+            <partcolors></partcolors>
+    <name>hween_c22_taintedtable name</name>
+    <description>hween_c22_taintedtable desc</description>
+    <adurl/>
+    <offerid>-1</offerid>
+    <buyout>0</buyout>
+    <rentofferid>-1</rentofferid>
+    <rentbuyout>0</rentbuyout>
+    <bc>0</bc>
+    <excludeddynamic>0</excludeddynamic>
+    <customparams></customparams>
+    <specialtype>1</specialtype>
+    <canstandon>0</canstandon>
+    <cansiton>0</cansiton>
+    <canlayon>0</canlayon>
+    <furniline>habboween_2022</furniline>
+</furnitype>
+<furnitype id="13401" classname="hween_c22_gothicwindow">
+    <revision>68275</revision>
+    <defaultdir>0</defaultdir>
+    <xdim>1</xdim>
+    <ydim>2</ydim>
+            <partcolors></partcolors>
+    <name>hween_c22_gothicwindow name</name>
+    <description>hween_c22_gothicwindow desc</description>
+    <adurl/>
+    <offerid>-1</offerid>
+    <buyout>0</buyout>
+    <rentofferid>-1</rentofferid>
+    <rentbuyout>0</rentbuyout>
+    <bc>0</bc>
+    <excludeddynamic>0</excludeddynamic>
+    <customparams></customparams>
+    <specialtype>1</specialtype>
+    <canstandon>0</canstandon>
+    <cansiton>0</cansiton>
+    <canlayon>0</canlayon>
+    <furniline>habboween_2022</furniline>
+</furnitype>
+<furnitype id="13402" classname="hween_c22_gothictable">
+    <revision>68275</revision>
+    <defaultdir>0</defaultdir>
+    <xdim>2</xdim>
+    <ydim>3</ydim>
+            <partcolors></partcolors>
+    <name>hween_c22_gothictable name</name>
+    <description>hween_c22_gothictable desc</description>
+    <adurl/>
+    <offerid>-1</offerid>
+    <buyout>0</buyout>
+    <rentofferid>-1</rentofferid>
+    <rentbuyout>0</rentbuyout>
+    <bc>0</bc>
+    <excludeddynamic>0</excludeddynamic>
+    <customparams></customparams>
+    <specialtype>1</specialtype>
+    <canstandon>0</canstandon>
+    <cansiton>0</cansiton>
+    <canlayon>0</canlayon>
+    <furniline>habboween_2022</furniline>
+</furnitype>
+<furnitype id="13403" classname="hween_c22_gothicstatue">
+    <revision>68275</revision>
+    <defaultdir>0</defaultdir>
+    <xdim>1</xdim>
+    <ydim>1</ydim>
+            <partcolors></partcolors>
+    <name>hween_c22_gothicstatue name</name>
+    <description>hween_c22_gothicstatue desc</description>
+    <adurl/>
+    <offerid>-1</offerid>
+    <buyout>0</buyout>
+    <rentofferid>-1</rentofferid>
+    <rentbuyout>0</rentbuyout>
+    <bc>0</bc>
+    <excludeddynamic>0</excludeddynamic>
+    <customparams></customparams>
+    <specialtype>1</specialtype>
+    <canstandon>1</canstandon>
+    <cansiton>0</cansiton>
+    <canlayon>0</canlayon>
+    <furniline>habboween_2022</furniline>
+</furnitype>
+<furnitype id="13404" classname="hween_c22_gothicdrapes">
+    <revision>68275</revision>
+    <defaultdir>0</defaultdir>
+    <xdim>1</xdim>
+    <ydim>2</ydim>
+            <partcolors></partcolors>
+    <name>hween_c22_gothicdrapes name</name>
+    <description>hween_c22_gothicdrapes desc</description>
+    <adurl/>
+    <offerid>-1</offerid>
+    <buyout>0</buyout>
+    <rentofferid>-1</rentofferid>
+    <rentbuyout>0</rentbuyout>
+    <bc>0</bc>
+    <excludeddynamic>0</excludeddynamic>
+    <customparams></customparams>
+    <specialtype>1</specialtype>
+    <canstandon>1</canstandon>
+    <cansiton>0</cansiton>
+    <canlayon>0</canlayon>
+    <furniline>habboween_2022</furniline>
+</furnitype>
+<furnitype id="13405" classname="hween_c22_archdarkangel">
+    <revision>68275</revision>
+    <defaultdir>0</defaultdir>
+    <xdim>1</xdim>
+    <ydim>1</ydim>
+            <partcolors></partcolors>
+    <name>hween_c22_archdarkangel name</name>
+    <description>hween_c22_archdarkangel desc</description>
+    <adurl/>
+    <offerid>-1</offerid>
+    <buyout>0</buyout>
+    <rentofferid>-1</rentofferid>
+    <rentbuyout>0</rentbuyout>
+    <bc>0</bc>
+    <excludeddynamic>0</excludeddynamic>
+    <customparams></customparams>
+    <specialtype>1</specialtype>
+    <canstandon>0</canstandon>
+    <cansiton>0</cansiton>
+    <canlayon>0</canlayon>
+    <furniline>habboween_2022</furniline>
+</furnitype>
+<furnitype id="13406" classname="hween_c22_marblefloor">
+    <revision>68275</revision>
+    <defaultdir>0</defaultdir>
+    <xdim>2</xdim>
+    <ydim>2</ydim>
+            <partcolors></partcolors>
+    <name>hween_c22_marblefloor name</name>
+    <description>hween_c22_marblefloor desc</description>
+    <adurl/>
+    <offerid>-1</offerid>
+    <buyout>0</buyout>
+    <rentofferid>-1</rentofferid>
+    <rentbuyout>0</rentbuyout>
+    <bc>0</bc>
+    <excludeddynamic>0</excludeddynamic>
+    <customparams></customparams>
+    <specialtype>1</specialtype>
+    <canstandon>1</canstandon>
+    <cansiton>0</cansiton>
+    <canlayon>0</canlayon>
+    <furniline>habboween_2022</furniline>
+</furnitype>
+<furnitype id="13407" classname="hween_c22_bloodvial">
+    <revision>68275</revision>
+    <defaultdir>0</defaultdir>
+    <xdim>1</xdim>
+    <ydim>1</ydim>
+            <partcolors></partcolors>
+    <name>hween_c22_bloodvial name</name>
+    <description>hween_c22_bloodvial desc</description>
+    <adurl/>
+    <offerid>-1</offerid>
+    <buyout>0</buyout>
+    <rentofferid>-1</rentofferid>
+    <rentbuyout>0</rentbuyout>
+    <bc>0</bc>
+    <excludeddynamic>0</excludeddynamic>
+    <customparams></customparams>
+    <specialtype>1</specialtype>
+    <canstandon>0</canstandon>
+    <cansiton>0</cansiton>
+    <canlayon>0</canlayon>
+    <furniline>habboween_2022</furniline>
+</furnitype>
+<furnitype id="13408" classname="hween_c22_roseskull">
+    <revision>68275</revision>
+    <defaultdir>0</defaultdir>
+    <xdim>1</xdim>
+    <ydim>1</ydim>
+            <partcolors></partcolors>
+    <name>hween_c22_roseskull name</name>
+    <description>hween_c22_roseskull desc</description>
+    <adurl/>
+    <offerid>-1</offerid>
+    <buyout>0</buyout>
+    <rentofferid>-1</rentofferid>
+    <rentbuyout>0</rentbuyout>
+    <bc>0</bc>
+    <excludeddynamic>0</excludeddynamic>
+    <customparams></customparams>
+    <specialtype>1</specialtype>
+    <canstandon>0</canstandon>
+    <cansiton>0</cansiton>
+    <canlayon>0</canlayon>
+    <furniline>habboween_2022</furniline>
+</furnitype>
+<furnitype id="13409" classname="hween_c22_gothicstairs">
+    <revision>68275</revision>
+    <defaultdir>0</defaultdir>
+    <xdim>2</xdim>
+    <ydim>1</ydim>
+            <partcolors></partcolors>
+    <name>hween_c22_gothicstairs name</name>
+    <description>hween_c22_gothicstairs desc</description>
+    <adurl/>
+    <offerid>-1</offerid>
+    <buyout>0</buyout>
+    <rentofferid>-1</rentofferid>
+    <rentbuyout>0</rentbuyout>
+    <bc>0</bc>
+    <excludeddynamic>0</excludeddynamic>
+    <customparams></customparams>
+    <specialtype>1</specialtype>
+    <canstandon>1</canstandon>
+    <cansiton>0</cansiton>
+    <canlayon>0</canlayon>
+    <furniline>habboween_2022</furniline>
+</furnitype>
+<furnitype id="13410" classname="hween_c22_darkcandles">
+    <revision>68275</revision>
+    <defaultdir>0</defaultdir>
+    <xdim>1</xdim>
+    <ydim>1</ydim>
+            <partcolors></partcolors>
+    <name>hween_c22_darkcandles name</name>
+    <description>hween_c22_darkcandles desc</description>
+    <adurl/>
+    <offerid>-1</offerid>
+    <buyout>0</buyout>
+    <rentofferid>-1</rentofferid>
+    <rentbuyout>0</rentbuyout>
+    <bc>0</bc>
+    <excludeddynamic>0</excludeddynamic>
+    <customparams></customparams>
+    <specialtype>1</specialtype>
+    <canstandon>0</canstandon>
+    <cansiton>0</cansiton>
+    <canlayon>0</canlayon>
+    <furniline>habboween_2022</furniline>
+</furnitype>
+<furnitype id="13411" classname="hween_c22_taintedlamp">
+    <revision>68275</revision>
+    <defaultdir>0</defaultdir>
+    <xdim>1</xdim>
+    <ydim>1</ydim>
+            <partcolors></partcolors>
+    <name>hween_c22_taintedlamp name</name>
+    <description>hween_c22_taintedlamp desc</description>
+    <adurl/>
+    <offerid>-1</offerid>
+    <buyout>0</buyout>
+    <rentofferid>-1</rentofferid>
+    <rentbuyout>0</rentbuyout>
+    <bc>0</bc>
+    <excludeddynamic>0</excludeddynamic>
+    <customparams></customparams>
+    <specialtype>1</specialtype>
+    <canstandon>0</canstandon>
+    <cansiton>0</cansiton>
+    <canlayon>0</canlayon>
+    <furniline>habboween_2022</furniline>
+</furnitype>
+<furnitype id="13412" classname="hween_r22_hellhound">
+    <revision>68275</revision>
+    <defaultdir>0</defaultdir>
+    <xdim>2</xdim>
+    <ydim>1</ydim>
+            <partcolors></partcolors>
+    <name>hween_r22_hellhound name</name>
+    <description>hween_r22_hellhound desc</description>
+    <adurl/>
+    <offerid>-1</offerid>
+    <buyout>0</buyout>
+    <rentofferid>-1</rentofferid>
+    <rentbuyout>0</rentbuyout>
+    <bc>0</bc>
+    <excludeddynamic>0</excludeddynamic>
+    <customparams></customparams>
+    <specialtype>1</specialtype>
+    <canstandon>0</canstandon>
+    <cansiton>0</cansiton>
+    <canlayon>0</canlayon>
+    <furniline>habboween_2022</furniline>
+</furnitype>
+<furnitype id="13413" classname="hween_c22_taintedchair">
+    <revision>68275</revision>
+    <defaultdir>0</defaultdir>
+    <xdim>1</xdim>
+    <ydim>1</ydim>
+            <partcolors></partcolors>
+    <name>hween_c22_taintedchair name</name>
+    <description>hween_c22_taintedchair desc</description>
+    <adurl/>
+    <offerid>-1</offerid>
+    <buyout>0</buyout>
+    <rentofferid>-1</rentofferid>
+    <rentbuyout>0</rentbuyout>
+    <bc>0</bc>
+    <excludeddynamic>0</excludeddynamic>
+    <customparams></customparams>
+    <specialtype>1</specialtype>
+    <canstandon>0</canstandon>
+    <cansiton>1</cansiton>
+    <canlayon>0</canlayon>
+    <furniline>habboween_2022</furniline>
+</furnitype>
+<furnitype id="13414" classname="hween_c22_bookofdead">
+    <revision>68275</revision>
+    <defaultdir>0</defaultdir>
+    <xdim>1</xdim>
+    <ydim>1</ydim>
+            <partcolors></partcolors>
+    <name>hween_c22_bookofdead name</name>
+    <description>hween_c22_bookofdead desc</description>
+    <adurl/>
+    <offerid>-1</offerid>
+    <buyout>0</buyout>
+    <rentofferid>-1</rentofferid>
+    <rentbuyout>0</rentbuyout>
+    <bc>0</bc>
+    <excludeddynamic>0</excludeddynamic>
+    <customparams></customparams>
+    <specialtype>1</specialtype>
+    <canstandon>0</canstandon>
+    <cansiton>0</cansiton>
+    <canlayon>0</canlayon>
+    <furniline>habboween_2022</furniline>
+</furnitype>
+<furnitype id="13415" classname="hween_c22_gothicrug">
+    <revision>68275</revision>
+    <defaultdir>0</defaultdir>
+    <xdim>2</xdim>
+    <ydim>3</ydim>
+            <partcolors></partcolors>
+    <name>hween_c22_gothicrug name</name>
+    <description>hween_c22_gothicrug desc</description>
+    <adurl/>
+    <offerid>-1</offerid>
+    <buyout>0</buyout>
+    <rentofferid>-1</rentofferid>
+    <rentbuyout>0</rentbuyout>
+    <bc>0</bc>
+    <excludeddynamic>0</excludeddynamic>
+    <customparams></customparams>
+    <specialtype>1</specialtype>
+    <canstandon>1</canstandon>
+    <cansiton>0</cansiton>
+    <canlayon>0</canlayon>
+    <furniline>habboween_2022</furniline>
+</furnitype>
+<furnitype id="13416" classname="hween_c22_bloodchalice">
+    <revision>68275</revision>
+    <defaultdir>0</defaultdir>
+    <xdim>1</xdim>
+    <ydim>1</ydim>
+            <partcolors></partcolors>
+    <name>hween_c22_bloodchalice name</name>
+    <description>hween_c22_bloodchalice desc</description>
+    <adurl/>
+    <offerid>-1</offerid>
+    <buyout>0</buyout>
+    <rentofferid>-1</rentofferid>
+    <rentbuyout>0</rentbuyout>
+    <bc>0</bc>
+    <excludeddynamic>0</excludeddynamic>
+    <customparams></customparams>
+    <specialtype>1</specialtype>
+    <canstandon>0</canstandon>
+    <cansiton>0</cansiton>
+    <canlayon>0</canlayon>
+    <furniline>habboween_2022</furniline>
+</furnitype>
+<furnitype id="13417" classname="hween_c22_undeadfood">
+    <revision>68275</revision>
+    <defaultdir>0</defaultdir>
+    <xdim>1</xdim>
+    <ydim>1</ydim>
+            <partcolors></partcolors>
+    <name>hween_c22_undeadfood name</name>
+    <description>hween_c22_undeadfood desc</description>
+    <adurl/>
+    <offerid>-1</offerid>
+    <buyout>0</buyout>
+    <rentofferid>-1</rentofferid>
+    <rentbuyout>0</rentbuyout>
+    <bc>0</bc>
+    <excludeddynamic>0</excludeddynamic>
+    <customparams></customparams>
+    <specialtype>1</specialtype>
+    <canstandon>0</canstandon>
+    <cansiton>0</cansiton>
+    <canlayon>0</canlayon>
+    <furniline>habboween_2022</furniline>
+</furnitype>
+<furnitype id="13418" classname="clothing_gothicdress">
+    <revision>68275</revision>
+    <defaultdir>0</defaultdir>
+    <xdim>1</xdim>
+    <ydim>1</ydim>
+            <partcolors></partcolors>
+    <name>clothing_gothicdress name</name>
+    <description>clothing_gothicdress desc</description>
+    <adurl/>
+    <offerid>-1</offerid>
+    <buyout>0</buyout>
+    <rentofferid>-1</rentofferid>
+    <rentbuyout>0</rentbuyout>
+    <bc>0</bc>
+    <excludeddynamic>0</excludeddynamic>
+    <customparams>4976, 4989</customparams>
+    <specialtype>23</specialtype>
+    <canstandon>0</canstandon>
+    <cansiton>0</cansiton>
+    <canlayon>0</canlayon>
+    <furniline>habboween_2022</furniline>
+</furnitype>
+<furnitype id="13419" classname="clothing_gothicflowerhorns">
+    <revision>68275</revision>
+    <defaultdir>0</defaultdir>
+    <xdim>1</xdim>
+    <ydim>1</ydim>
+            <partcolors></partcolors>
+    <name>clothing_gothicflowerhorns name</name>
+    <description>clothing_gothicflowerhorns desc</description>
+    <adurl/>
+    <offerid>-1</offerid>
+    <buyout>0</buyout>
+    <rentofferid>-1</rentofferid>
+    <rentbuyout>0</rentbuyout>
+    <bc>0</bc>
+    <excludeddynamic>0</excludeddynamic>
+    <customparams>4977</customparams>
+    <specialtype>23</specialtype>
+    <canstandon>0</canstandon>
+    <cansiton>0</cansiton>
+    <canlayon>0</canlayon>
+    <furniline>habboween_2022</furniline>
+</furnitype>
+<furnitype id="13420" classname="hween_c22_gothicbanner">
+    <revision>68275</revision>
+    <defaultdir>0</defaultdir>
+    <xdim>1</xdim>
+    <ydim>2</ydim>
+            <partcolors></partcolors>
+    <name>hween_c22_gothicbanner name</name>
+    <description>hween_c22_gothicbanner desc</description>
+    <adurl/>
+    <offerid>-1</offerid>
+    <buyout>0</buyout>
+    <rentofferid>-1</rentofferid>
+    <rentbuyout>0</rentbuyout>
+    <bc>0</bc>
+    <excludeddynamic>0</excludeddynamic>
+    <customparams></customparams>
+    <specialtype>1</specialtype>
+    <canstandon>1</canstandon>
+    <cansiton>0</cansiton>
+    <canlayon>0</canlayon>
+    <furniline>habboween_2022</furniline>
+</furnitype>
+<furnitype id="13421" classname="hween_c22_taintedbookshelf">
+    <revision>68275</revision>
+    <defaultdir>0</defaultdir>
+    <xdim>1</xdim>
+    <ydim>2</ydim>
+            <partcolors></partcolors>
+    <name>hween_c22_taintedbookshelf name</name>
+    <description>hween_c22_taintedbookshelf desc</description>
+    <adurl/>
+    <offerid>-1</offerid>
+    <buyout>0</buyout>
+    <rentofferid>-1</rentofferid>
+    <rentbuyout>0</rentbuyout>
+    <bc>0</bc>
+    <excludeddynamic>0</excludeddynamic>
+    <customparams></customparams>
+    <specialtype>1</specialtype>
+    <canstandon>0</canstandon>
+    <cansiton>0</cansiton>
+    <canlayon>0</canlayon>
+    <furniline>habboween_2022</furniline>
+</furnitype>
+<furnitype id="13422" classname="hween_c22_archdarkangelb">
+    <revision>68275</revision>
+    <defaultdir>0</defaultdir>
+    <xdim>1</xdim>
+    <ydim>1</ydim>
+            <partcolors></partcolors>
+    <name>hween_c22_archdarkangelb name</name>
+    <description>hween_c22_archdarkangelb desc</description>
+    <adurl/>
+    <offerid>-1</offerid>
+    <buyout>0</buyout>
+    <rentofferid>-1</rentofferid>
+    <rentbuyout>0</rentbuyout>
+    <bc>0</bc>
+    <excludeddynamic>0</excludeddynamic>
+    <customparams></customparams>
+    <specialtype>1</specialtype>
+    <canstandon>0</canstandon>
+    <cansiton>0</cansiton>
+    <canlayon>0</canlayon>
+    <furniline>habboween_2022</furniline>
+</furnitype>
+<furnitype id="13423" classname="hween_c22_gothicsofa">
+    <revision>68275</revision>
+    <defaultdir>0</defaultdir>
+    <xdim>2</xdim>
+    <ydim>1</ydim>
+            <partcolors></partcolors>
+    <name>hween_c22_gothicsofa name</name>
+    <description>hween_c22_gothicsofa desc</description>
+    <adurl/>
+    <offerid>-1</offerid>
+    <buyout>0</buyout>
+    <rentofferid>-1</rentofferid>
+    <rentbuyout>0</rentbuyout>
+    <bc>0</bc>
+    <excludeddynamic>0</excludeddynamic>
+    <customparams></customparams>
+    <specialtype>1</specialtype>
+    <canstandon>0</canstandon>
+    <cansiton>1</cansiton>
+    <canlayon>0</canlayon>
+    <furniline>habboween_2022</furniline>
+</furnitype>
+<furnitype id="13424" classname="hween_c22_mirror">
+    <revision>68275</revision>
+    <defaultdir>0</defaultdir>
+    <xdim>1</xdim>
+    <ydim>3</ydim>
+            <partcolors></partcolors>
+    <name>hween_c22_mirror name</name>
+    <description>hween_c22_mirror desc</description>
+    <adurl/>
+    <offerid>-1</offerid>
+    <buyout>0</buyout>
+    <rentofferid>-1</rentofferid>
+    <rentbuyout>0</rentbuyout>
+    <bc>0</bc>
+    <excludeddynamic>0</excludeddynamic>
+    <customparams></customparams>
+    <specialtype>1</specialtype>
+    <canstandon>0</canstandon>
+    <cansiton>0</cansiton>
+    <canlayon>0</canlayon>
+    <furniline>habboween_2022</furniline>
+</furnitype>
+<furnitype id="13425" classname="hween_c22_lucifer">
+    <revision>68275</revision>
+    <defaultdir>0</defaultdir>
+    <xdim>1</xdim>
+    <ydim>1</ydim>
+            <partcolors></partcolors>
+    <name>hween_c22_lucifer name</name>
+    <description>hween_c22_lucifer desc</description>
+    <adurl/>
+    <offerid>-1</offerid>
+    <buyout>0</buyout>
+    <rentofferid>-1</rentofferid>
+    <rentbuyout>0</rentbuyout>
+    <bc>0</bc>
+    <excludeddynamic>0</excludeddynamic>
+    <customparams></customparams>
+    <specialtype>1</specialtype>
+    <canstandon>0</canstandon>
+    <cansiton>0</cansiton>
+    <canlayon>0</canlayon>
+    <furniline>habboween_2022</furniline>
+</furnitype>
+<furnitype id="13426" classname="hween_c22_gothicpillar">
+    <revision>68275</revision>
+    <defaultdir>0</defaultdir>
+    <xdim>1</xdim>
+    <ydim>1</ydim>
+            <partcolors></partcolors>
+    <name>hween_c22_gothicpillar name</name>
+    <description>hween_c22_gothicpillar desc</description>
+    <adurl/>
+    <offerid>-1</offerid>
+    <buyout>0</buyout>
+    <rentofferid>-1</rentofferid>
+    <rentbuyout>0</rentbuyout>
+    <bc>0</bc>
+    <excludeddynamic>0</excludeddynamic>
+    <customparams></customparams>
+    <specialtype>1</specialtype>
+    <canstandon>1</canstandon>
+    <cansiton>0</cansiton>
+    <canlayon>0</canlayon>
+    <furniline>habboween_2022</furniline>
+</furnitype>
+<furnitype id="13427" classname="clothing_nt_gothicdress">
+    <revision>68275</revision>
+    <defaultdir>0</defaultdir>
+    <xdim>1</xdim>
+    <ydim>1</ydim>
+            <partcolors></partcolors>
+    <name>clothing_nt_gothicdress name</name>
+    <description>clothing_nt_gothicdress desc</description>
+    <adurl/>
+    <offerid>-1</offerid>
+    <buyout>0</buyout>
+    <rentofferid>-1</rentofferid>
+    <rentbuyout>0</rentbuyout>
+    <bc>0</bc>
+    <excludeddynamic>0</excludeddynamic>
+    <customparams>4976, 4989</customparams>
+    <specialtype>23</specialtype>
+    <canstandon>0</canstandon>
+    <cansiton>0</cansiton>
+    <canlayon>0</canlayon>
+    <furniline>habboween_2022</furniline>
+</furnitype>
+<furnitype id="13428" classname="hween_c22_gothicportrait">
+    <revision>68275</revision>
+    <defaultdir>0</defaultdir>
+    <xdim>1</xdim>
+    <ydim>2</ydim>
+            <partcolors></partcolors>
+    <name>hween_c22_gothicportrait name</name>
+    <description>hween_c22_gothicportrait desc</description>
+    <adurl/>
+    <offerid>-1</offerid>
+    <buyout>0</buyout>
+    <rentofferid>-1</rentofferid>
+    <rentbuyout>0</rentbuyout>
+    <bc>0</bc>
+    <excludeddynamic>0</excludeddynamic>
+    <customparams></customparams>
+    <specialtype>1</specialtype>
+    <canstandon>1</canstandon>
+    <cansiton>0</cansiton>
+    <canlayon>0</canlayon>
+    <furniline>habboween_2022</furniline>
+</furnitype>
+<furnitype id="13429" classname="hween_c22_gothiclamp">
+    <revision>68275</revision>
+    <defaultdir>0</defaultdir>
+    <xdim>1</xdim>
+    <ydim>1</ydim>
+            <partcolors></partcolors>
+    <name>hween_c22_gothiclamp name</name>
+    <description>hween_c22_gothiclamp desc</description>
+    <adurl/>
+    <offerid>-1</offerid>
+    <buyout>0</buyout>
+    <rentofferid>-1</rentofferid>
+    <rentbuyout>0</rentbuyout>
+    <bc>0</bc>
+    <excludeddynamic>0</excludeddynamic>
+    <customparams></customparams>
+    <specialtype>1</specialtype>
+    <canstandon>0</canstandon>
+    <cansiton>0</cansiton>
+    <canlayon>0</canlayon>
+    <furniline>habboween_2022</furniline>
+</furnitype>
+<furnitype id="13430" classname="hween_c22_darkangelstatueb">
+    <revision>68275</revision>
+    <defaultdir>0</defaultdir>
+    <xdim>1</xdim>
+    <ydim>1</ydim>
+            <partcolors></partcolors>
+    <name>hween_c22_darkangelstatueb name</name>
+    <description>hween_c22_darkangelstatueb desc</description>
+    <adurl/>
+    <offerid>-1</offerid>
+    <buyout>0</buyout>
+    <rentofferid>-1</rentofferid>
+    <rentbuyout>0</rentbuyout>
+    <bc>0</bc>
+    <excludeddynamic>0</excludeddynamic>
+    <customparams></customparams>
+    <specialtype>1</specialtype>
+    <canstandon>0</canstandon>
+    <cansiton>0</cansiton>
+    <canlayon>0</canlayon>
+    <furniline>habboween_2022</furniline>
+</furnitype>
+<furnitype id="13431" classname="hween_c22_darkskull">
+    <revision>68275</revision>
+    <defaultdir>0</defaultdir>
+    <xdim>1</xdim>
+    <ydim>1</ydim>
+            <partcolors></partcolors>
+    <name>hween_c22_darkskull name</name>
+    <description>hween_c22_darkskull desc</description>
+    <adurl/>
+    <offerid>-1</offerid>
+    <buyout>0</buyout>
+    <rentofferid>-1</rentofferid>
+    <rentbuyout>0</rentbuyout>
+    <bc>0</bc>
+    <excludeddynamic>0</excludeddynamic>
+    <customparams></customparams>
+    <specialtype>1</specialtype>
+    <canstandon>0</canstandon>
+    <cansiton>0</cansiton>
+    <canlayon>0</canlayon>
+    <furniline>habboween_2022</furniline>
+</furnitype>
+<furnitype id="13431" classname="hween_c22_darkskull">
+    <revision>68275</revision>
+    <defaultdir>0</defaultdir>
+    <xdim>1</xdim>
+    <ydim>1</ydim>
+            <partcolors></partcolors>
+    <name>hween_c22_darkskull name</name>
+    <description>hween_c22_darkskull desc</description>
+    <adurl/>
+    <offerid>-1</offerid>
+    <buyout>0</buyout>
+    <rentofferid>-1</rentofferid>
+    <rentbuyout>0</rentbuyout>
+    <bc>0</bc>
+    <excludeddynamic>0</excludeddynamic>
+    <customparams></customparams>
+    <specialtype>1</specialtype>
+    <canstandon>0</canstandon>
+    <cansiton>0</cansiton>
+    <canlayon>0</canlayon>
+    <furniline>habboween_2022</furniline>
+</furnitype>
+<furnitype id="13432" classname="clothing_gothichat">
+    <revision>68275</revision>
+    <defaultdir>0</defaultdir>
+    <xdim>1</xdim>
+    <ydim>1</ydim>
+            <partcolors></partcolors>
+    <name>clothing_gothichat name</name>
+    <description>clothing_gothichat desc</description>
+    <adurl/>
+    <offerid>-1</offerid>
+    <buyout>0</buyout>
+    <rentofferid>-1</rentofferid>
+    <rentbuyout>0</rentbuyout>
+    <bc>0</bc>
+    <excludeddynamic>0</excludeddynamic>
+    <customparams>4980</customparams>
+    <specialtype>23</specialtype>
+    <canstandon>0</canstandon>
+    <cansiton>0</cansiton>
+    <canlayon>0</canlayon>
+    <furniline>habboween_2022</furniline>
+</furnitype>
+<furnitype id="13433" classname="hween_c22_darkangel">
+    <revision>68275</revision>
+    <defaultdir>0</defaultdir>
+    <xdim>1</xdim>
+    <ydim>1</ydim>
+            <partcolors></partcolors>
+    <name>hween_c22_darkangel name</name>
+    <description>hween_c22_darkangel desc</description>
+    <adurl/>
+    <offerid>-1</offerid>
+    <buyout>0</buyout>
+    <rentofferid>-1</rentofferid>
+    <rentbuyout>0</rentbuyout>
+    <bc>0</bc>
+    <excludeddynamic>0</excludeddynamic>
+    <customparams></customparams>
+    <specialtype>1</specialtype>
+    <canstandon>0</canstandon>
+    <cansiton>0</cansiton>
+    <canlayon>0</canlayon>
+    <furniline>habboween_2022</furniline>
+</furnitype>
+<furnitype id="13434" classname="hween_c22_darkangelb">
+    <revision>68275</revision>
+    <defaultdir>0</defaultdir>
+    <xdim>1</xdim>
+    <ydim>1</ydim>
+            <partcolors></partcolors>
+    <name>hween_c22_darkangelb name</name>
+    <description>hween_c22_darkangelb desc</description>
+    <adurl/>
+    <offerid>-1</offerid>
+    <buyout>0</buyout>
+    <rentofferid>-1</rentofferid>
+    <rentbuyout>0</rentbuyout>
+    <bc>0</bc>
+    <excludeddynamic>0</excludeddynamic>
+    <customparams></customparams>
+    <specialtype>1</specialtype>
+    <canstandon>0</canstandon>
+    <cansiton>0</cansiton>
+    <canlayon>0</canlayon>
+    <furniline>habboween_2022</furniline>
+</furnitype>
+<furnitype id="13435" classname="hween_c22_darkmagictable">
+    <revision>68275</revision>
+    <defaultdir>0</defaultdir>
+    <xdim>1</xdim>
+    <ydim>2</ydim>
+            <partcolors></partcolors>
+    <name>hween_c22_darkmagictable name</name>
+    <description>hween_c22_darkmagictable desc</description>
+    <adurl/>
+    <offerid>-1</offerid>
+    <buyout>0</buyout>
+    <rentofferid>-1</rentofferid>
+    <rentbuyout>0</rentbuyout>
+    <bc>0</bc>
+    <excludeddynamic>0</excludeddynamic>
+    <customparams>hween22</customparams>
+    <specialtype>1</specialtype>
+    <canstandon>0</canstandon>
+    <cansiton>0</cansiton>
+    <canlayon>0</canlayon>
+    <furniline>habboween_2022</furniline>
+</furnitype>
+<furnitype id="13436" classname="hween_c22_darkmagictele">
+    <revision>68275</revision>
+    <defaultdir>2</defaultdir>
+    <xdim>1</xdim>
+    <ydim>1</ydim>
+            <partcolors></partcolors>
+    <name>hween_c22_darkmagictele name</name>
+    <description>hween_c22_darkmagictele desc</description>
+    <adurl/>
+    <offerid>-1</offerid>
+    <buyout>0</buyout>
+    <rentofferid>-1</rentofferid>
+    <rentbuyout>0</rentbuyout>
+    <bc>0</bc>
+    <excludeddynamic>0</excludeddynamic>
+    <customparams></customparams>
+    <specialtype>1</specialtype>
+    <canstandon>1</canstandon>
+    <cansiton>0</cansiton>
+    <canlayon>0</canlayon>
+    <furniline>habboween_2022</furniline>
+</furnitype>
+<furnitype id="13437" classname="hween_c22_gothicchair">
+    <revision>68275</revision>
+    <defaultdir>0</defaultdir>
+    <xdim>1</xdim>
+    <ydim>1</ydim>
+            <partcolors></partcolors>
+    <name>hween_c22_gothicchair name</name>
+    <description>hween_c22_gothicchair desc</description>
+    <adurl/>
+    <offerid>-1</offerid>
+    <buyout>0</buyout>
+    <rentofferid>-1</rentofferid>
+    <rentbuyout>0</rentbuyout>
+    <bc>0</bc>
+    <excludeddynamic>0</excludeddynamic>
+    <customparams></customparams>
+    <specialtype>1</specialtype>
+    <canstandon>0</canstandon>
+    <cansiton>1</cansiton>
+    <canlayon>0</canlayon>
+    <furniline>habboween_2022</furniline>
+</furnitype>
+<furnitype id="13438" classname="hween_c22_gothicteaset">
+    <revision>68275</revision>
+    <defaultdir>0</defaultdir>
+    <xdim>1</xdim>
+    <ydim>1</ydim>
+            <partcolors></partcolors>
+    <name>hween_c22_gothicteaset name</name>
+    <description>hween_c22_gothicteaset desc</description>
+    <adurl/>
+    <offerid>-1</offerid>
+    <buyout>0</buyout>
+    <rentofferid>-1</rentofferid>
+    <rentbuyout>0</rentbuyout>
+    <bc>0</bc>
+    <excludeddynamic>0</excludeddynamic>
+    <customparams></customparams>
+    <specialtype>1</specialtype>
+    <canstandon>0</canstandon>
+    <cansiton>0</cansiton>
+    <canlayon>0</canlayon>
+    <furniline>habboween_2022</furniline>
+</furnitype>
+<furnitype id="13439" classname="hween_c22_gothicblock">
+    <revision>68275</revision>
+    <defaultdir>0</defaultdir>
+    <xdim>1</xdim>
+    <ydim>1</ydim>
+            <partcolors></partcolors>
+    <name>hween_c22_gothicblock name</name>
+    <description>hween_c22_gothicblock desc</description>
+    <adurl/>
+    <offerid>-1</offerid>
+    <buyout>0</buyout>
+    <rentofferid>-1</rentofferid>
+    <rentbuyout>0</rentbuyout>
+    <bc>0</bc>
+    <excludeddynamic>0</excludeddynamic>
+    <customparams></customparams>
+    <specialtype>1</specialtype>
+    <canstandon>1</canstandon>
+    <cansiton>0</cansiton>
+    <canlayon>0</canlayon>
+    <furniline>habboween_2022</furniline>
+</furnitype>
+<furnitype id="13440" classname="clothing_r22_wingheadpiece">
+    <revision>68275</revision>
+    <defaultdir>0</defaultdir>
+    <xdim>1</xdim>
+    <ydim>1</ydim>
+            <partcolors></partcolors>
+    <name>clothing_r22_wingheadpiece name</name>
+    <description>clothing_r22_wingheadpiece desc</description>
+    <adurl/>
+    <offerid>-1</offerid>
+    <buyout>0</buyout>
+    <rentofferid>-1</rentofferid>
+    <rentbuyout>0</rentbuyout>
+    <bc>0</bc>
+    <excludeddynamic>0</excludeddynamic>
+    <customparams>4976</customparams>
+    <specialtype>23</specialtype>
+    <canstandon>0</canstandon>
+    <cansiton>0</cansiton>
+    <canlayon>0</canlayon>
+    <furniline>habboween_2022</furniline>
+</furnitype>
+<furnitype id="13441" classname="hween_r22_coffin">
+    <revision>68275</revision>
+    <defaultdir>2</defaultdir>
+    <xdim>3</xdim>
+    <ydim>3</ydim>
+            <partcolors></partcolors>
+    <name>hween_r22_coffin name</name>
+    <description>hween_r22_coffin desc</description>
+    <adurl/>
+    <offerid>-1</offerid>
+    <buyout>0</buyout>
+    <rentofferid>-1</rentofferid>
+    <rentbuyout>0</rentbuyout>
+    <bc>0</bc>
+    <excludeddynamic>0</excludeddynamic>
+    <customparams></customparams>
+    <specialtype>1</specialtype>
+    <canstandon>1</canstandon>
+    <cansiton>0</cansiton>
+    <canlayon>0</canlayon>
+    <furniline>habboween_2022</furniline>
+</furnitype>
+<furnitype id="13442" classname="hween_c22_pitofsouls">
+    <revision>68275</revision>
+    <defaultdir>2</defaultdir>
+    <xdim>2</xdim>
+    <ydim>2</ydim>
+            <partcolors></partcolors>
+    <name>hween_c22_pitofsouls name</name>
+    <description>hween_c22_pitofsouls desc</description>
+    <adurl/>
+    <offerid>-1</offerid>
+    <buyout>0</buyout>
+    <rentofferid>-1</rentofferid>
+    <rentbuyout>0</rentbuyout>
+    <bc>0</bc>
+    <excludeddynamic>0</excludeddynamic>
+    <customparams>163,3000</customparams>
+    <specialtype>1</specialtype>
+    <canstandon>1</canstandon>
+    <cansiton>0</cansiton>
+    <canlayon>0</canlayon>
+    <furniline>habboween_2022</furniline>
+</furnitype>
+<furnitype id="13443" classname="clothing_r22_darkangelwings">
+    <revision>68275</revision>
+    <defaultdir>0</defaultdir>
+    <xdim>1</xdim>
+    <ydim>1</ydim>
+            <partcolors></partcolors>
+    <name>clothing_r22_darkangelwings name</name>
+    <description>clothing_r22_darkangelwings desc</description>
+    <adurl/>
+    <offerid>-1</offerid>
+    <buyout>0</buyout>
+    <rentofferid>-1</rentofferid>
+    <rentbuyout>0</rentbuyout>
+    <bc>0</bc>
+    <excludeddynamic>0</excludeddynamic>
+    <customparams>4979</customparams>
+    <specialtype>23</specialtype>
+    <canstandon>0</canstandon>
+    <cansiton>0</cansiton>
+    <canlayon>0</canlayon>
+    <furniline>habboween_2022</furniline>
+</furnitype>
+<furnitype id="13444" classname="hween_c22_zombiehand">
+    <revision>68275</revision>
+    <defaultdir>0</defaultdir>
+    <xdim>1</xdim>
+    <ydim>1</ydim>
+            <partcolors></partcolors>
+    <name>hween_c22_zombiehand name</name>
+    <description>hween_c22_zombiehand desc</description>
+    <adurl/>
+    <offerid>-1</offerid>
+    <buyout>0</buyout>
+    <rentofferid>-1</rentofferid>
+    <rentbuyout>0</rentbuyout>
+    <bc>0</bc>
+    <excludeddynamic>0</excludeddynamic>
+    <customparams></customparams>
+    <specialtype>1</specialtype>
+    <canstandon>0</canstandon>
+    <cansiton>0</cansiton>
+    <canlayon>0</canlayon>
+    <furniline>habboween_2022</furniline>
+</furnitype>
+<furnitype id="13445" classname="clothing_nt_gothiccoat">
+    <revision>68275</revision>
+    <defaultdir>0</defaultdir>
+    <xdim>1</xdim>
+    <ydim>1</ydim>
+            <partcolors></partcolors>
+    <name>clothing_nt_gothiccoat name</name>
+    <description>clothing_nt_gothiccoat desc</description>
+    <adurl/>
+    <offerid>-1</offerid>
+    <buyout>0</buyout>
+    <rentofferid>-1</rentofferid>
+    <rentbuyout>0</rentbuyout>
+    <bc>0</bc>
+    <excludeddynamic>0</excludeddynamic>
+    <customparams>4978</customparams>
+    <specialtype>23</specialtype>
+    <canstandon>0</canstandon>
+    <cansiton>0</cansiton>
+    <canlayon>0</canlayon>
+    <furniline>habboween_2022</furniline>
+</furnitype>
+<furnitype id="13446" classname="hween_c22_darkfeathers">
+    <revision>68275</revision>
+    <defaultdir>0</defaultdir>
+    <xdim>1</xdim>
+    <ydim>1</ydim>
+            <partcolors></partcolors>
+    <name>hween_c22_darkfeathers name</name>
+    <description>hween_c22_darkfeathers desc</description>
+    <adurl/>
+    <offerid>-1</offerid>
+    <buyout>0</buyout>
+    <rentofferid>-1</rentofferid>
+    <rentbuyout>0</rentbuyout>
+    <bc>0</bc>
+    <excludeddynamic>0</excludeddynamic>
+    <customparams></customparams>
+    <specialtype>1</specialtype>
+    <canstandon>0</canstandon>
+    <cansiton>0</cansiton>
+    <canlayon>0</canlayon>
+    <furniline>habboween_2022</furniline>
+</furnitype>
+<furnitype id="13447" classname="hween_c22_gothicbookshelf">
+    <revision>68275</revision>
+    <defaultdir>0</defaultdir>
+    <xdim>1</xdim>
+    <ydim>2</ydim>
+            <partcolors></partcolors>
+    <name>hween_c22_gothicbookshelf name</name>
+    <description>hween_c22_gothicbookshelf desc</description>
+    <adurl/>
+    <offerid>-1</offerid>
+    <buyout>0</buyout>
+    <rentofferid>-1</rentofferid>
+    <rentbuyout>0</rentbuyout>
+    <bc>0</bc>
+    <excludeddynamic>0</excludeddynamic>
+    <customparams></customparams>
+    <specialtype>1</specialtype>
+    <canstandon>0</canstandon>
+    <cansiton>0</cansiton>
+    <canlayon>0</canlayon>
+    <furniline>habboween_2022</furniline>
+</furnitype>
+<furnitype id="13448" classname="clothing_gothiccoat">
+    <revision>68275</revision>
+    <defaultdir>0</defaultdir>
+    <xdim>1</xdim>
+    <ydim>1</ydim>
+            <partcolors></partcolors>
+    <name>clothing_gothiccoat name</name>
+    <description>clothing_gothiccoat desc</description>
+    <adurl/>
+    <offerid>-1</offerid>
+    <buyout>0</buyout>
+    <rentofferid>-1</rentofferid>
+    <rentbuyout>0</rentbuyout>
+    <bc>0</bc>
+    <excludeddynamic>0</excludeddynamic>
+    <customparams>4978</customparams>
+    <specialtype>23</specialtype>
+    <canstandon>0</canstandon>
+    <cansiton>0</cansiton>
+    <canlayon>0</canlayon>
+    <furniline>habboween_2022</furniline>
+</furnitype>
+<furnitype id="13449" classname="hween_c22_gothicbed">
+    <revision>68275</revision>
+    <defaultdir>2</defaultdir>
+    <xdim>2</xdim>
+    <ydim>3</ydim>
+            <partcolors></partcolors>
+    <name>hween_c22_gothicbed name</name>
+    <description>hween_c22_gothicbed desc</description>
+    <adurl/>
+    <offerid>-1</offerid>
+    <buyout>0</buyout>
+    <rentofferid>-1</rentofferid>
+    <rentbuyout>0</rentbuyout>
+    <bc>0</bc>
+    <excludeddynamic>0</excludeddynamic>
+    <customparams></customparams>
+    <specialtype>1</specialtype>
+    <canstandon>0</canstandon>
+    <cansiton>0</cansiton>
+    <canlayon>1</canlayon>
+    <furniline>habboween_2022</furniline>
+</furnitype>
+<furnitype id="13450" classname="hween_ltd22_throneofwings">
+    <revision>68275</revision>
+    <defaultdir>0</defaultdir>
+    <xdim>1</xdim>
+    <ydim>1</ydim>
+            <partcolors></partcolors>
+    <name>hween_ltd22_throneofwings name</name>
+    <description>hween_ltd22_throneofwings desc</description>
+    <adurl/>
+    <offerid>-1</offerid>
+    <buyout>0</buyout>
+    <rentofferid>-1</rentofferid>
+    <rentbuyout>0</rentbuyout>
+    <bc>0</bc>
+    <excludeddynamic>0</excludeddynamic>
+    <customparams></customparams>
+    <specialtype>1</specialtype>
+    <canstandon>0</canstandon>
+    <cansiton>1</cansiton>
+    <canlayon>0</canlayon>
+    <furniline>habboween_2022</furniline>
+</furnitype>
+<furnitype id="13451" classname="hween_c22_darkangelstatue">
+    <revision>68275</revision>
+    <defaultdir>0</defaultdir>
+    <xdim>1</xdim>
+    <ydim>1</ydim>
+            <partcolors></partcolors>
+    <name>hween_c22_darkangelstatue name</name>
+    <description>hween_c22_darkangelstatue desc</description>
+    <adurl/>
+    <offerid>-1</offerid>
+    <buyout>0</buyout>
+    <rentofferid>-1</rentofferid>
+    <rentbuyout>0</rentbuyout>
+    <bc>0</bc>
+    <excludeddynamic>0</excludeddynamic>
+    <customparams></customparams>
+    <specialtype>1</specialtype>
+    <canstandon>0</canstandon>
+    <cansiton>0</cansiton>
+    <canlayon>0</canlayon>
+    <furniline>habboween_2022</furniline>
+</furnitype>
+<furnitype id="13452" classname="hween_c22_taintedsofa">
+    <revision>68275</revision>
+    <defaultdir>0</defaultdir>
+    <xdim>2</xdim>
+    <ydim>1</ydim>
+            <partcolors></partcolors>
+    <name>hween_c22_taintedsofa name</name>
+    <description>hween_c22_taintedsofa desc</description>
+    <adurl/>
+    <offerid>-1</offerid>
+    <buyout>0</buyout>
+    <rentofferid>-1</rentofferid>
+    <rentbuyout>0</rentbuyout>
+    <bc>0</bc>
+    <excludeddynamic>0</excludeddynamic>
+    <customparams></customparams>
+    <specialtype>1</specialtype>
+    <canstandon>0</canstandon>
+    <cansiton>1</cansiton>
+    <canlayon>0</canlayon>
+    <furniline>habboween_2022</furniline>
+</furnitype></roomitemtypes><wallitemtypes></wallitemtypes>

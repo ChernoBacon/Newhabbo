@@ -1,0 +1,2 @@
+#!/bin/sh
+java -Dfile.encoding=UTF8 -Xmx4096m -jar /var/www/emulator/Habbo-3.6.0-jar-with-dependencies.jar >/var/log/emulator.log
